@@ -1,5 +1,5 @@
 function buttonClick() {
-    document.getElementById('par').innerHTML = 'You Clicked'
-};
+    document.getElementById("par").innerHTML = "You Clicked";
+}
 
-module.exports = buttonClick();
+module.exports = buttonClick;

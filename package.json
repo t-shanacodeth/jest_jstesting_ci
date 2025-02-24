@@ -18,5 +18,8 @@
   "homepage": "https://github.com/t-shanacodeth/jest_jstesting_ci#readme",
   "dependencies": {
     "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "jest-environment-jsdom": "^29.7.0"
   }
 }
